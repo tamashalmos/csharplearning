@@ -10,6 +10,7 @@ for (int i = 0; i < 15; i++)
         Console.WriteLine(rocketDescend);      
         rocket = rocketDescend;
         Thread.Sleep(100);
+        Thread.Sleep(100);
 
     }
 
